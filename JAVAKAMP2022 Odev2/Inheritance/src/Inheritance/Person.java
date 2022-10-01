@@ -1,0 +1,8 @@
+package Inheritance;
+
+public class Person {
+int id;
+int age;
+String firstName;
+String lastName;
+}

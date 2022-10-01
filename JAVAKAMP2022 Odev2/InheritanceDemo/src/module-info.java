@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author hatic
+ *
+ */
+module InheritanceDemo {
+}
